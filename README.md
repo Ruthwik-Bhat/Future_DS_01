@@ -1,12 +1,16 @@
 # Business Sales Performance Analytics
 
+## About
+This project was completed as part of a Data Science & Analytics internship task.
+It focuses on analyzing business sales performance using retail transaction data.
+
 ## Objective
 The objective of this project is to analyze sales data to identify revenue trends,
 top-selling products, and regional performance to support data-driven
 business decision-making.
 
 ## Dataset
-Online Retail Dataset
+Online Retail Dataset (UCI Machine Learning Repository)
 
 ## Tools & Technologies Used
 - Python
